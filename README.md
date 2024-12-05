@@ -7,7 +7,7 @@
 ## **Features**
 
 - **3D Visualization**: Generate interactive 3D representations of brain structures from probability atlases.
-- **GUI Interface**: Provides an intuitive GUI to customize the visualization, such as changing colors, resetting the camera, and selecting files.
+- **GUI Interface**: Provides an intuitive GUI to customize the visualization, such as changing colors, resetting the camera, and save images.
 - **File Selection**: At startup, a custom dialog box prompts users to select files for the **left** and **right brain structures** (e.g., **left substantia nigra** and **right substantia nigra**).
 
 ---
