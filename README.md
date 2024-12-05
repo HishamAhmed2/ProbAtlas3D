@@ -53,9 +53,6 @@ Below is the file structure of the **ProbAtlas3D** project, with descriptions of
 
 3. **`gui.py`**:  
    Includes the implementation of the **Graphical User Interface (GUI)**, which allows users to:
-   - Change the color of brain structures.
-   - Reset the camera view.
-   - Load different files.
 
 4. **`navigator_main.py`**:  
    The main script that initializes and launches the application.
@@ -76,9 +73,11 @@ Below is the file structure of the **ProbAtlas3D** project, with descriptions of
    Once the files are loaded, the **3D visualization** of the brain structures will be displayed.
 
 3. **Interactive GUI Features**:  
-   - **Change Colors**: Customize the color of the brain structures.  
-   - **Reset Camera**: Reset the camera to its default view.  
-   - **Load Different Files**: Use the GUI to load different files and visualize other brain regions.
+   - **Files**: To load different files.
+   - **Save Image**: Save the image as .png, .jpg, .tiff.
+   - **Reset Camera**: Reset the camera to its default view.
+   - **Change Color**: Customize the color of the brain structures.  
+ 
 
 ---
 
@@ -87,11 +86,6 @@ Below is the file structure of the **ProbAtlas3D** project, with descriptions of
 To successfully run the project, you need the following:
 
 - **Python 3.13**  
-- Libraries listed in `requirements.txt`:
-  - `numpy`
-  - `matplotlib`
-  - `vtk`
-  - `PyQt6` (or your selected PyQt version)
 
 Install the required libraries with:
 ```bash
