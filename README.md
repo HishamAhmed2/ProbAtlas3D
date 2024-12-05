@@ -11,7 +11,7 @@
 - **File Selection**: At startup, a custom dialog box prompts users to select files for the **left** and **right brain structures** (e.g., **left substantia nigra** and **right substantia nigra**).
 
 ---
-![Screen Recording 2024-12-06 at 01 05 33](https://github.com/user-attachments/assets/7c45aa0d-7f89-415b-8709-04b0b038a33b)
+![Screen Recording 2024-12-06 at 01 05 33-2](https://github.com/user-attachments/assets/6b25a0f7-829d-4bca-a41f-e84f012e18d8)
 
 
 ## **Installation**
