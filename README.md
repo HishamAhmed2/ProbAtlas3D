@@ -102,11 +102,7 @@ Contributions are welcome! If you'd like to contribute:
    ```bash
    git checkout -b feature-name
    ```
-3. **Commit** your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push your changes and create a **Pull Request**.
+3. Push your changes and create a **Pull Request**.
 
 ---
 
