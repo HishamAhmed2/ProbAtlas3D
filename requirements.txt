@@ -1,0 +1,11 @@
+vtkplotlib
+nibabel
+numpy
+stl
+scipy
+meson
+ninja
+scikit-image
+matplotlib
+PyQt6
+numpy-stl
