@@ -1,6 +1,6 @@
 # **ProbAtlas3D**
 
-**ProbAtlas3D** is a Python-based application designed for **3D visualization of probability atlases** for any brain region. The application transforms a probability atlas into a **binary image** and utilizes the **Marching Cubes algorithm** to create a 3D mesh. It features a user-friendly **GUI** for interacting with the visualization, allowing users to customize colors, reset the camera, and switch between different files.
+**ProbAtlas3D** is a Python-based application designed for **3D visualization of probability atlases** for any brain region. The application transforms a probability atlas into a **binary image** and utilizes the **Marching Cubes algorithm** to create a 3D mesh. It features a user-friendly **GUI** for interacting with the visualization, allowing users to customize colors, reset the camera, and save images as .png, .jpg, .tiff.
 
 ---
 
